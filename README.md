@@ -6,4 +6,4 @@ Group Members:
 2. Nicole Pham-Nguyen (EID: np9967)
 3. Meeth Yogesh Handa (EID: mh58668)
 4. Denise Neuman (EID: dn9264)
-5. Noah Shimizu (EID: )
+5. Noah Shimizu (EID: ncs838)
