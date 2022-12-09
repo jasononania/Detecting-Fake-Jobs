@@ -5,5 +5,5 @@ Group Members:
 1. Jason Nania (EID: )
 2. Nicole Pham-Nguyen (EID: np9967)
 3. Meeth Yogesh Handa (EID: mh58668)
-4. Denise Neuman (EID: )
+4. Denise Neuman (EID: dn9264)
 5. Noah Shimizu (EID: )
